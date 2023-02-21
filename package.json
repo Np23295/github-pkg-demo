@@ -1,10 +1,7 @@
 {
   "name": "@np23295/github-pkg-demo",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "repository": {
-    "url": "git://github.com/Np23295/github-pkg-demo.git"
+    "url": "https://github.com/Np23295/github-pkg-demo.git"
   },
   "version": "1.0.0",
   "description": "",
